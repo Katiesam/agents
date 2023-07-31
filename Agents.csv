@@ -1,10 +1,10 @@
 Name,AgentName,Age,Status
 Kristen,Chip,16,False
 Katie,Kat,19,False
-Joann,J,3,False
+Joann,J,3,True
 Bob,B,3,True
-Gaby,Gib,20,False
-Xin,X,21,True
+Gaby,Gib,20,True
+Xin,X,21,False
 Pablo,Lulu,5,False
-Gabriella,Penguin,19,False
-Max,Pad,34,False
+Kat,Kat,34,False
+Gabriella,Gab,34,False
