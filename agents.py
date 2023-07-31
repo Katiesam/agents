@@ -57,6 +57,7 @@ def update():
 
 
 # a change
+# another change
 
 while True:
     command = input("\nEnter command: ")
