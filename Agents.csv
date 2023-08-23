@@ -1,10 +1,38 @@
-Name,AgentName,Age,Status
-Kristen,Chip,16,False
-Katie,Kat,19,False
-Joann,J,3,True
-Bob,B,3,True
-Gaby,Gib,20,True
-Xin,X,21,False
-Pablo,Lulu,5,False
-Kat,Kat,34,False
-Gabriella,Gab,34,False
+CAMPER,CODE NAME,SIGNED IN?,SIGN OUT TIME,AGE,PARENT,EMAIL,CONTACT #
+Adeline Dockery,,,,11,Jonathan Dockery,dockery1@mindspring.com,415-572-5288
+Bear Ghe-Huang,,,,6,Ruqoiyah Ghe-Huang,andrewandruqi@gmail.com,209-996-6654
+Blair Caster,,,,,Elizabeth ARNOLD,secondfrozen@hotmail.com,925-330-7009
+Chloe Grace Hewett,,,,7,L.Wong,thewongstuff@gmail.com,415-794-0404
+Daniel Agnos,,,,8,Sherry Agnos,sherryagnos@gmail.com,4153123648 / 415-970-0071
+Dash Croom,,,,6,Kimberly Mackoy,joyleaf77@yahoo.com,415-513-6627
+Dawik Bourov,,,,8,Anthony Bourov,0x4142@gmail.com,408-387-2788
+Declan Toal,,,,7,John Toal,tiwei3@gmail.com,415-999-2553
+Eliose Sutcliffe,,8:15,,8,Genevieve Conaty,genevieve.conaty@gmail.com,415-324-9477
+Finn Casey,,,,6,PJ Casey,hdmaxwell@gmail.com,415-515-7819
+Freyja Lew,,8:17,,6,Veronica Vaskinn,veronicavaskinn@gmail.com,408-480-6910
+Ivy Deng,,,,8,Cindy Zhang,zhangconglei@gmail.com,
+Janav Gahlla,,,,6,Purva Satia,pcsatia@gmail.com,408-656-5551
+Juliet Sutcliffe,,8:15,,8,Genevieve Conaty/Deven Sutcliffe,genevieve.conaty@gmail.com/tim@timsutcliffe.com,415-324-9477/415-279-9579
+Lexie Xie,,,,7,Fanny (Yingsi) She,fanny.she@gmail.com,6502550817
+Linus Hanono-Wu,,8:23,,5.5,Charlene Wu,hanonowu@gmail.com,510-304-2681 / 619-733-8462
+Lucas Chilvarguer,,,,8,Laura Hayward,recycledracer@hotmail.com,4159713108
+Maximillian Pappalardo,,8:00,,8,Melanie Kushnir,melaniekushnir@gmail.com,650-201-6727
+Nicholas Mersch,,,,9,Andi Trindle Mersch,coffeetastingwoman@gmail.com,415-517-1285
+Nico Elizabeth-James,,8:29,,7,Joseph Gasiorek,joe.gasiorek@gmail.com ,4154045864
+Pasha Resnik,,,,8,Boris Reznikov,borisreznikov1@gmail.com,415-632-9516 
+Preston Chan,,,,8,Clifford Chan,ivandcliff@gmail.com,650-703-9878
+Quentin Pellegrini,,,,8,Stefan Pellegrini,stefandante@hotmail.com,5105993147
+Rogen Gaver,,8:00,,8,Chad Gaver,timonc346@yahoo.com,4158168894
+Rosibel King-Mestayer,,,,9,Bryn King,brynking.31@gmail.com,416-525-2199
+Sasha Pellegrini,,,,10,Stefan Pellegrini,stefandante@hotmail.com,5105993147
+Shiloh Post,,,,5.5,Alexander Post,sashajpost@gmail.com,202-491-7526
+THOMAS P BEATTY,,,,7,Pornnapa Beatty,pornnapabeatty@gmail.com,415-527-6979
+Thomas Mac Partlin,,,,8,Sandra Lydon,sandralydon@yahoo.com,415-810-4878
+Willow Lew,,8:17,,6,Veronica Vaskinn,veronicavaskinn@gmail.com,408-480-6910
+,,,,,,,
+,,,,,Thomas Stephenson,thomas.stephenson@gmail.com,646-369-0865
+,,,,,Thomas Stephenson,thomas.stephenson@gmail.com,646-369-0865
+,,,,,caleb inman,calebinman@gmail.com,5102056280
+,,,,,Karen Liu,karenliu88@gmail.com,415-609-0097
+,,,,,Karen Liu,karenliu88@gmail.com,415-609-0097
+,,,,,Faye Harris,faye.harris@gmail.com,
